@@ -9,23 +9,39 @@ The dataset includes various features:
 
 Mileage
 Engine specifications
+
 Seller type (e.g., dealer or individual)
+
 Year of manufacturing
+
 Sale price
+
 Kilometers driven
+
 Fuel type (e.g., petrol, diesel, CNG)
+
 Type of transmission (manual or automatic)
-Key Features
+
+### Key Features
 Data exploration and visualization using seaborn and matplotlib
+
 Data preprocessing with MinMaxScaler and StandardScaler
+
 Dimensionality reduction using PCA (Principal Component Analysis)
+
 Model building using algorithms such as Support Vector Machines (SVM)
-Performance evaluation using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared
+
+Performance evaluation using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), 
+and R-squared
 ### Libraries Used
 numpy
+
 pandas
+
 seaborn
+
 scikit-learn
+
 matplotlib
 
 ### Project Overview
